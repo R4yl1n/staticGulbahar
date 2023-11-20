@@ -649,7 +649,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 722px;
+    min-height: 725px;
   }
 
   .u-section-4 .u-form-1 {
@@ -681,10 +681,8 @@
 
   .u-section-4 .u-btn-3 {
     font-weight: 700;
-    margin-top: 20px;
-    margin-bottom: 22px;
-    margin-left: 0;
-    padding: 18px 19px 19px 18px;
+    margin: 20px 0 22px;
+    padding: 18px 8px 19px 7px;
   }
 } .u-section-5 {
   background-image: linear-gradient(#f2f2f2, white);
